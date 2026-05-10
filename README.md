@@ -7,6 +7,15 @@ The project showcases services, visual identity, and contact options in a clean 
 The interface is structured into well‑defined sections and follows front‑end best practices, using **HTML5, CSS3, and Bootstrap 5** to ensure responsiveness and consistent visual design across devices.
 
 ---
+## 🖼️ Preview
+
+A quick preview of the Royal Cut Barbershop landing page:
+
+![Homepage Preview](Images/preview-top-site.jpg)
+
+
+![Services Section](Images/preview-gallery.jpg)
+---
 
 ## 🛠️ Technologies Used
 - HTML5  
